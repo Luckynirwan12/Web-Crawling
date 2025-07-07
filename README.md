@@ -6,7 +6,7 @@ This Python program crawls a website using its sitemap.xml and extracts all the 
 - A valid URL to a website's sitemap.xml.
 Example:
 
-      https://thapar.edu/sitemap.xml
+      https://yourdomain.com/sitemap.xml
 
 ## 📤 Output
 - A CSV file named Emails.csv containing all the extracted email addresses:
